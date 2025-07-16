@@ -1,8 +1,3 @@
-Sure! Here’s a clean and professional README.md you can use for your HubSpot + React project, tailored to your goals of building a custom-coded site using 70% React/HubL and 30% drag-and-drop modules:
-
-⸻
-
-
 # 🌍 Fairbnb Coop – HubSpot Rebuild
 
 A custom-coded recreation of the Fairbnb.coop landing page (and supporting pages) using HubSpot CMS with React and HubL.
@@ -109,14 +104,11 @@ Note: You must be added to the HubSpot EDU portal to access and deploy.
 ✍️ Author Notes
 
 This project is part of the TalentMatch Africa x HubSpot Developer Accelerator.
-For questions or support, reach out to natalie.coughlan@talentmatchafrica.io.
 
 ⸻
 
 📝 License
 
-MIT © [Your Name] – Educational purposes only.
+MIT © Faith Moraa – Educational purposes only.
 
 ---
-
-Let me know if you want a short or markdown-rendered version for GitHub, or want to customize it with your name, GitHub repo, or screenshots!
