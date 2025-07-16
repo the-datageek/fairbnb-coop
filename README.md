@@ -7,25 +7,37 @@ A custom-coded recreation of the Fairbnb.coop landing page (and supporting pages
 ---
 
 ## 🚀 Project Structure
+<pre>
 
-hubspot-theme/
-├── modules/               # Custom HubL modules (converted React atoms/molecules)
+fairbnb-hubspot-theme/
+├── modules/                  # Custom HubSpot modules (converted React components)
 │   ├── SearchForm.module/
 │   │   ├── SearchForm.module.html
 │   │   ├── fields.json
 │   │   └── module.css
-├── templates/             # Page templates using HubSpot drag-and-drop areas
+│   ├── Button.module/
+│   └── Input.module/
+│
+├── templates/               # Drag-and-drop page templates
 │   ├── homepage.html
-│   ├── blog.html
-│   └── about.html
-├── theme.css              # Global styles (imported by modules + templates)
-├── theme.js               # Optional global JS
-├── assets/                # Images, icons, etc.
-└── React/                 # Original React components (before conversion)
-├── atoms/
-├── molecules/
-├── organisms/
-├── pages/
+│   ├── about.html
+│   └── booking.html
+│
+├── theme.css                # Global theme-wide CSS
+├── theme.js                 # Optional JS logic for layout-wide behaviors
+│
+├── assets/                  # Images, icons, fonts
+│   └── logo.svg
+│
+└── React/                   # Original React codebase for conversion or reference
+    ├── atoms/
+    ├── molecules/
+    ├── organisms/
+    ├── pages/
+    └── magicui/
+
+</pre>
+
 
 ---
 
